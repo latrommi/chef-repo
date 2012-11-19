@@ -12,4 +12,4 @@ Vagrant::Config.run do |config|
     # chef.add_role("rails")
   end
 
-en
+end
